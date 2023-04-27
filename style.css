@@ -1,0 +1,12 @@
+body {
+    background-color:grey;
+}
+.card-title {
+    text-align: center;
+    padding: 5px;
+
+}
+
+.btn  {
+    margin-left: 70px;
+}
